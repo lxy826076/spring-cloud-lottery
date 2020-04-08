@@ -73,5 +73,5 @@ TG: tg.me/lottery166
 
 | 支付宝 | 微信支付 |
 | :------: | :------: |
-| ![alipay](/doc/截图/alipay.jpg) | ![wepay](/doc/截图/wechat.jpg) |
+| ![alipay](/doc/截图/alipay.jpg) | ![wepay](/doc/截图/wechant.jpg) |
 
